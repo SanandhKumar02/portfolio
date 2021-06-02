@@ -31,7 +31,7 @@
                     <v-flex xs3>
                         <div class="text-center">
                             <v-btn icon>
-                                <fa :icon="['fab', 'github']"></fa>
+                                 <v-icon>github</v-icon>
                             </v-btn>
                             <div class="caption">Github</div>
                         </div>
@@ -41,7 +41,7 @@
             <div>
                 <div class="title mt-2">Code</div>
                 <v-btn icon>
-                    <fa :icon="['fab', 'github']"></fa>
+                    <v-icon>github</v-icon>
                 </v-btn>
             </div>
         </v-card-text>
