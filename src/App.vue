@@ -9,7 +9,6 @@
 </template>
 
 <script>
-  import { mdiAccount } from '@mdi/js'
   import Header from './components/Header.vue';
   import Home from './components/Home.vue';
   import Footer from './components/Footer.vue';
@@ -24,9 +23,6 @@
       Footer
       // Contact
     },
-    data: () => ({
-      svgPath: mdiAccount
-    }),
   }
 </script>
 
