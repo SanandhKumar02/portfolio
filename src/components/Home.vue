@@ -3,7 +3,7 @@
         <v-img
         dark
         max-height="500px"
-        src="#"
+        src="../assets/Black.png"
         >
             <v-layout fill-height align-center>
                 <v-container>
