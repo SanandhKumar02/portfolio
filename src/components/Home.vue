@@ -3,7 +3,7 @@
         <v-img
         dark
         max-height="500px"
-        src="../assets/SK.jpeg"
+        src="../assets/sanu bg 2.png"
         >
             <v-layout fill-height align-center>
                 <v-container>
