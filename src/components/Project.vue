@@ -9,14 +9,14 @@
                         width="100px"
                         height="100px"
                     >
-                        <v-img src="../assets/SK.jpeg" />
+                        <v-img src="../assets/FZ.png" />
                     </v-card>
                 </v-flex>
                 <v-flex xs7>
                     <div>Freshers Zone</div>
                     <template>
                         <v-btn icon>
-                            
+                            <i class="fas fa-globe fa-2x"></i>
                         </v-btn>
                     </template>
                 </v-flex>
@@ -31,9 +31,17 @@
                     <v-flex xs3>
                         <div class="text-center">
                             <v-btn icon>
-                                 <v-icon>github</v-icon>
+                                <i class="fab fa-html5 fa-2x"></i>
                             </v-btn>
-                            <div class="caption">Github</div>
+                            <div class="caption">HTML5</div>
+                        </div>
+                    </v-flex>
+                    <v-flex xs3>
+                        <div class="text-center">
+                            <v-btn icon>
+                                <i class="fab fa-css3-alt fa-2x"></i>
+                            </v-btn>
+                            <div class="caption">CSS3</div>
                         </div>
                     </v-flex>
                 </template>
@@ -41,7 +49,7 @@
             <div>
                 <div class="title mt-2">Code</div>
                 <v-btn icon>
-                    <v-icon>github</v-icon>
+                    <i class="fab fa-github fa-2x"></i>
                 </v-btn>
             </div>
         </v-card-text>

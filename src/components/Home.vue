@@ -3,7 +3,7 @@
         <v-img
         dark
         max-height="500px"
-        src="../assets/sanu bg 2.png"
+        src="#"
         >
             <v-layout fill-height align-center>
                 <v-container>
@@ -86,35 +86,29 @@
         },
         data: () => ({
             aboutText:
-                "I enjoy building apps in my free time when I'm not doing much. Looking to get into machine learning and trying to automate as many things as possible. Love to encourage new coders that they can do it too! I'm not very smart, just curious to see how things work. I'm also not that good of a writer as you can see. lol. Anyways, you are free to download any of the code thats on my github! And I hope you have a great day!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
             apps: [
                 {
-                name: "Food Vision",
-                price: "FREE",
-                logo: "food-vision-logo.png",
+                name: "Freshers Zone",
+                logo: "FZ.png",
                 platforms: [
                     {
-                    name: "apple",
-                    icon: "mdi-apple",
+                    name: "web",
+                    icon: "mdi-",
                     link: "https://apps.apple.com/us/app/food-vision/id1437083324"
                     }
                 ],
                 description:
-                    "One day my friend and I were eating at a restaurant and she suddenly asked me what an item looks like. I looked up at her an told her I didnt know. Then she told me why dont you make an app where you can see the pictures of food thats on the menu? Then I made Food Vision. :)",
+                    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
                 technologies: [
                     {
-                    name: "Swift",
+                    name: "HTML",
                     icon: "mdi-language-swift",
                     link: ""
                     },
                     {
-                    name: "XCode",
+                    name: "CSS",
                     icon: "mdi-apple-ios",
-                    link: ""
-                    },
-                    {
-                    name: "Firebase",
-                    icon: "mdi-firebase",
                     link: ""
                     }
                 ],
