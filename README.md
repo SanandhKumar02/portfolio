@@ -1,6 +1,9 @@
-# portfolio
 
 ## Project setup
+
+This is a portfolio website template made using VueJS and Vuetify 
+
+![Alt Text](./gif/template.gif)
 ```
 npm install
 ```
