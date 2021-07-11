@@ -13,7 +13,7 @@
                     </v-card>
                 </v-flex>
                 <v-flex xs7>
-                    <div>Freshers Zone</div>
+                    <div>Project 1</div>
                     <template>
                         <v-btn icon>
                             <i class="fas fa-globe fa-2x"></i>

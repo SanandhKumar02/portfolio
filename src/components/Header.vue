@@ -5,7 +5,7 @@
         <v-layout>
           <div
             :class="{'display-1 font-weight-bold': $vuetify.breakpoint.smAndUp,'title font-weight-bold': $vuetify.breakpoint.smAndDown, }"
-          ><em>S</em>K</div>
+          >Logo.</div>
           <v-spacer></v-spacer>
           <v-toolbar-items class="text-right">
             <v-btn

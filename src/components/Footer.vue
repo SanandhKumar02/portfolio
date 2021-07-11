@@ -2,7 +2,7 @@
   <v-footer dark app absolute class="font-weight-medium">
     <v-col class="text-center" cols="12">
       {{ new Date().getFullYear() }} —
-      <em>S</em><b>K .</b>
+      Logo.
     </v-col>
   </v-footer>
 </template>
